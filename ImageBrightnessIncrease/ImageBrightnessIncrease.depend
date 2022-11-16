@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668588023 source:d:\image processing project\imagebrightnessincrease\main.cpp
+	<iostream>
+	"ImageProcessing.h"
+
+1668588145 d:\image processing project\imagebrightnessincrease\include\imageprocessing.h
+
